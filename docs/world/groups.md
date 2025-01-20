@@ -7,15 +7,27 @@ tags: [world, factions, groups]
 # Groups / Factions
 
 ## Faction One
-- **Overview**: [No specific faction details are defined yet. Possibly a group that studies or manipulates convergence events.]
-- **Leadership**: [Not specified. Future lore might identify key figures who have partial awareness of other timelines.]
-- **Allies & Enemies**: [Unclear at present; ties may form around shared or conflicting goals regarding magical, alien, or purely human advancements.]
-- **Symbols or Emblems**: [Nothing established. This could include convergence-related iconography in the future.]
-- **Current Goals**: [Potentially investigating or accelerating the final convergence; details not yet set.]
+- **Overview**: 
+  - A coalition of mages or advanced researchers who suspect there are parallel realities. In Arcania, they might be a council of archmagi exploring rumored “plane overlaps.” In Technia, they are a research consortium analyzing anomalies in cosmic data. 
+- **Leadership**: 
+  - A rotating council of experts (e.g., a high-level mage, a space physicist, or even a real-world underground scholar).
+- **Allies & Enemies**: 
+  - Allies: Some academic institutions, forward-thinking leaders.  
+  - Enemies: Traditionalists or those who fear the destabilizing effect of discovering parallel worlds.
+- **Symbols or Emblems**: 
+  - A stylized eye superimposed on an abstract representation of three branching paths (symbolizing the three timelines).
+- **Current Goals**: 
+  - Confirm the existence of parallel realities, gather knowledge, possibly orchestrate or prevent an eventual Convergence.
 
 ## Faction Two
-- **Overview**: [Another major faction or government body could be more conservative, seeking to prevent or control cross-timeline influences.]
-- **Leadership**: [Not yet detailed.]
-- **Allies & Enemies**: [To be defined, possibly at odds with Faction One if their stances on convergence differ.]
-- **Symbols or Emblems**: [No symbols defined yet.]
-- **Current Goals**: [Could revolve around maintaining status quo in their respective timeline or harnessing power from relics or hidden knowledge.]
+- **Overview**: 
+  - A militant or protective order that strives to regulate or restrict the use of potent powers (be it magic, advanced weapons, or covert real-world tech). 
+- **Leadership**: 
+  - A strict hierarchy led by a grandmaster figure—someone convinced that unbridled “otherworldly” power threatens stability. 
+- **Allies & Enemies**: 
+  - Allies: Some government bodies in each timeline, fearful of catastrophic abuses.  
+  - Enemies: Any group pushing the boundaries of magic or tech recklessly. 
+- **Symbols or Emblems**: 
+  - A shield encircled by a ring of stylized runes or circuitry. 
+- **Current Goals**: 
+  - Suppress or control key resources (mana wells, advanced reactors), enact strict regulations on necromancy or AI, and quell uprisings related to “forbidden knowledge.”

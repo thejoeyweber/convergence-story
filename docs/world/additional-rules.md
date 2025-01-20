@@ -7,13 +7,13 @@ tags: [world, system, lore]
 # Additional Rules
 
 ## System Name
-- [No additional systems (e.g., alchemy, psionics) have been established yet. Future development might include specialized disciplines that operate alongside or within the existing magic or alien-tech frameworks.]
+- [Currently, there are rumblings about specialized disciplines that do not fit neatly under standard magic or advanced technology. Examples might include alchemy, psionics, or biologically-based enhancements. These have been historically overlooked or under-documented in each timeline.]
 
 ## Known Practitioners
-- [No specific practitioners identified yet. Could include hidden adepts or experimental scientists studying these disciplines in different timelines.]
+- [Practitioners remain rare or secretive. In the magic-centric realm, certain fringe wizard orders or druidic circles may keep archaic knowledge. In the tech-centric realm, biotech labs or cybernetic enclaves might be experimenting. The real-world timeline largely dismisses these or treats them as myths.]
 
 ## Special Constraints or Costs
-- [Information not yet defined. Any new system may carry energy costs, moral implications, or cross-timeline anomalies.]
+- [These systems often carry unique resource demands (rare reagents, exotic energies, or moral trade-offs). Energy depletion, mental strain, or ecological impact can be more pronounced than standard magic/tech usage.]
 
 ## Notable Artifacts / Materials
-- [None identified thus far, though potential relics linking timelines or bridging magic and alien tech could appear in future expansions.]
+- [Occasional references to “forgotten relics” or “lost experiments” that neither strictly classify as magic items nor standard advanced tech. They may appear in all three timelines, recognized differently (a philosopher’s stone in one world, a quantum anomaly in another).]
