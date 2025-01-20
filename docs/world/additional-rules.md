@@ -7,13 +7,13 @@ tags: [world, system, lore]
 # Additional Rules
 
 ## System Name
-- [Describe the system or discipline, its core principles, etc.]
+- [No additional systems (e.g., alchemy, psionics) have been established yet. Future development might include specialized disciplines that operate alongside or within the existing magic or alien-tech frameworks.]
 
 ## Known Practitioners
-- [Key individuals or groups who use this system.]
+- [No specific practitioners identified yet. Could include hidden adepts or experimental scientists studying these disciplines in different timelines.]
 
 ## Special Constraints or Costs
-- [Energy limits, resources needed, moral conflicts, etc.]
+- [Information not yet defined. Any new system may carry energy costs, moral implications, or cross-timeline anomalies.]
 
 ## Notable Artifacts / Materials
-- [Anything particularly important or rare that relates to this system.]
+- [None identified thus far, though potential relics linking timelines or bridging magic and alien tech could appear in future expansions.]
