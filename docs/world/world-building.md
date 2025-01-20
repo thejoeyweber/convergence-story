@@ -8,51 +8,54 @@ tags: [world, overview, lore]
 
 ## Overview
 This universe comprises **three parallel timelines**:
-1. **Arcania (Fantasy)**: Magic-dominant world with multiple sapient races (humans, elves, dwarves, others) and ongoing contact with the Faerealm.
-2. **Technia (Sci-Fi)**: A multi-planetary civilization advanced in AI, spaceflight, and interstellar relations with alien species—though not fully integrated.
-3. **Real (Mundane)**: Mirrors our real Earth’s historical progress, near-future technology, and no openly confirmed magic or alien presence.
+1. **Fantasy Timeline**: Magic-dominant world with multiple sapient races (humans, elves, dwarves, others) and ongoing mystical developments.  
+2. **Sci-Fi Timeline**: A multi-planetary civilization advanced in AI, spaceflight, and possible alliances with alien species—though not fully integrated.  
+3. **Real Timeline**: Mirrors our real Earth’s near-future technology, with no openly confirmed magic or alien presence.
 
-Each timeline evolves under different driving forces—**magic** vs. **technology** vs. **mundane**—yet they share underlying universal laws. Across history, they’ve experienced “near-convergence” events that echo major real-world developments but never fully merged.
+They share an origin but diverged in ancient times due to a forgotten **Divergence** event. Each timeline evolves under different forces—magic vs. technology vs. mundane—and experiences “echoes” or subtle overlaps hinting at the existence of parallel worlds.
 
-## Timeline of Major Events
-*(Dates are approximate and differ per timeline. Below are broad ages rather than strict years.)*
+## The Divergence
+- An ancient, nearly mythic occurrence happening around what we’d call the early Mesopotamian era.
+- Pre-Divergence, primal forms of magic, tech, and divine/extraterrestrial interaction coexisted on a rudimentary scale.
+- A cosmological alignment triggered the split into three distinct timelines; details are largely lost, with only obscure myths or contradictory legends suggesting what truly happened.
+- Whether it was accidental or influenced by powerful beings is unclear; stories persist of individuals who sensed the coming split and attempted (successfully or not) to steer its outcome.
 
-1. **Prehistoric / Early Civilization**  
-   - Fantasy: Emergence of druids, shamanic magic.  
-   - Sci-Fi: Forgotten alien artifacts influencing early engineering.  
-   - Real: Basic stone-to-bronze transitions, mythic beliefs, no proven magic/alien tech.
+## Timeline of Major Events (Broad Ages)
+*(Exact dates remain fluid. Only general milestones are noted.)*
 
-2. **Classical / Medieval Eras**  
-   - Fantasy: Formation of arcane guilds, city-states vying for mana resources.  
-   - Sci-Fi: Proto-scientific societies, half-legend alien contact references.  
-   - Real: Empires (Rome, Persia, etc.), universal religions, strictly natural progress.
+1. **Pre-Divergence**  
+   - Early hunter-gatherer societies, primal magic/tech seeds, direct deity interactions.  
 
-3. **Renaissance & Exploration**  
-   - Fantasy: Magical renaissance, rediscovery of ancient grimoires.  
-   - Sci-Fi: Mechanical breakthroughs, first systematic cosmic observations.  
-   - Real: Global navigation, printing press, scientific revolution seeds.
+2. **Post-Divergence—Foundational Eras**  
+   - Fantasy: Gradual rise of arcane guilds and nature-focused cultures.  
+   - Sci-Fi: Proto-scientific societies, possibly influenced by alien artifacts.  
+   - Real: Stone-Bronze transitions, mythic beliefs, no recorded proof of magic or alien contact.
 
-4. **Industrial & Colonial Period**  
-   - Fantasy: Industrial magic, mage-run expansions into new territories.  
-   - Sci-Fi: Rapid industrial leaps, early spaceflight. Corporate/political rivalries.  
-   - Real: Steam power, colonial empires, first global conflicts.
+3. **Medieval / Early Empires**  
+   - Each timeline develops distinctly, shaped by either mana, high-tech leaps, or standard human progress.
 
-5. **Modern / 20th Century & Beyond**  
-   - Fantasy: Large-scale magical wars, treaties limiting destructive spells, advanced magi-tech integration.  
-   - Sci-Fi: Interplanetary expansions, advanced AI, alien alliances, potential for large conflicts.  
-   - Real: Two world wars, digital revolution, near-future transformations.
+4. **Renaissance & Industrial Ages (Varies per Timeline)**  
+   - Fantasy: Magical renaissance, forging of powerful artifacts.  
+   - Sci-Fi: Early spaceflight, mechanical breakthroughs.  
+   - Real: Global navigation, steam power, eventual modernity.
 
-6. **Near-Future / Pre-Convergence**  
-   - Each realm stands on the brink of new frontiers, noticing anomalies or “echoes” hinting that other timelines exist but remain unconfirmed.
+5. **Modern & Near-Future**  
+   - Fantasy: Large-scale magical conflicts, stabilized treaties, refined magi-tech.  
+   - Sci-Fi: Interplanetary expansions, advanced AI, tension between corporate and governmental structures.  
+   - Real: Digital revolution, climate challenges, fringe labs studying anomalies.
+
+## Approaching Full Convergence
+- Convergence is not instantaneous but a **gradual bleed** between timelines. Strange phenomena—portal-like rifts, overlapping memories—will increase before a full unification.
+- How long this process takes, or if it can be halted, is unknown. Some factions strive to hasten it, others to prevent it.
 
 ## Key Themes
-- **Magic vs. Technology vs. Mundane**: Three distinct evolutions reflecting different solutions to universal challenges.  
-- **Resource Competition**: Mana wells, rare alien materials, or terrestrial fossil fuels.  
-- **Ethical Debates**: Necromancy and mind-control parallels advanced AI ethics or genetic engineering dilemmas.  
-- **Shared Human Condition**: Despite differences, all timelines face social inequalities, major conflicts, and unstoppable curiosity.
+- **Magic vs. Technology vs. Mundane**: Three paths to solving fundamental problems, each with its own triumphs and flaws.
+- **Resource Competition**: Mana wells, rare alien materials, or terrestrial fossil fuels—parallel reflections of scarcity and exploitation.
+- **Ethical Debates**: Parallels between necromancy or mind-control and advanced AI or genetic engineering.
+- **Shared Human Condition**: All timelines grapple with societal inequities, major conflicts, and curiosity that pushes boundaries.
 
 ## Overall Canonical Facts
-- **Parallel Timelines**: They share the same cosmic “meta-laws” but diverged historically.  
-- **Near-Convergences**: Occur at pivotal developments (e.g., pyramid-building, industrial leaps) but never fully unify.  
-- **Hidden Crossovers**: Real timeline has cryptic UFO or occult rumors. Arcania has ancient alien relics missed or buried. Technia can have minor unexplained “arcane-like” phenomena.  
-- **Approaching Convergence**: The final storyline sees a drawn-out merging, unveiling each timeline’s illusions, forging new possibilities—and conflicts.
+- **Parallel Timelines**: Each timeline is a branch from a common origin.  
+- **Near-Convergences**: Historical events that nearly reunited the timelines, leaving behind relics and myths in each.  
+- **Hidden Crossovers**: Rumors in each timeline of unexplained artifacts, cosmic energies, or supernatural phenomena.  
+- **Full Convergence**: A potential unification now looming, with unpredictable consequences.

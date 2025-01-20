@@ -8,16 +8,16 @@ tags: [world, factions, groups]
 
 ## Faction One
 - **Overview**: 
-  - A coalition of mages or advanced researchers who suspect there are parallel realities. In Arcania, they might be a council of archmagi exploring rumored “plane overlaps.” In Technia, they are a research consortium analyzing anomalies in cosmic data. 
+  - A coalition of mages or advanced researchers who suspect there are parallel realities. In the fantasy timeline, they might be a council of archmagi exploring rumored “plane overlaps.” In the sci-fi timeline, they are a research consortium analyzing anomalies in cosmic data. In the real-world timeline, perhaps an underground scholar network.
 - **Leadership**: 
-  - A rotating council of experts (e.g., a high-level mage, a space physicist, or even a real-world underground scholar).
+  - A rotating council of experts (e.g., a high-level mage, a space physicist, or even a real-world professor).
 - **Allies & Enemies**: 
   - Allies: Some academic institutions, forward-thinking leaders.  
   - Enemies: Traditionalists or those who fear the destabilizing effect of discovering parallel worlds.
 - **Symbols or Emblems**: 
   - A stylized eye superimposed on an abstract representation of three branching paths (symbolizing the three timelines).
 - **Current Goals**: 
-  - Confirm the existence of parallel realities, gather knowledge, possibly orchestrate or prevent an eventual Convergence.
+  - Confirm the existence of parallel realities, gather knowledge, possibly orchestrate or prevent an eventual full Convergence.
 
 ## Faction Two
 - **Overview**: 

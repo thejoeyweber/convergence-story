@@ -9,7 +9,7 @@ tags: [world, system, magic]
 ## Sources of Magic
 - **Arcane**: Derived from ambient mana or ley lines. Studied academically by wizards, sorcerers, etc.
 - **Divine**: Channeled from deities or cosmic entities. Clerics and paladins rely on faith-based pacts.
-- **Fey / Natural**: Tied to nature spirits, Faerealm energies, or primal forces. Druids, rangers, or fey-touched.
+- **Fey / Natural**: Tied to nature spirits, hidden realms, or primal forces. Druids, rangers, or fey-touched.
 - **Pact / Other**: Agreements with powerful extraplanar beings. Warlocks or similar become conduits for alien or eldritch power.
 
 ## Limitations
